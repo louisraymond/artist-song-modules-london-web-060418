@@ -1,6 +1,6 @@
 require 'pry'
 
-puts ("Lol)
+puts ("Lol")
 
 class Song
   attr_accessor :name
